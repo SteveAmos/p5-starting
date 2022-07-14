@@ -1,4 +1,4 @@
-/* Create P5 startup template */
+/* Create P5 Video Capture startup template */
 
 int baseWidth = 900;
 int baseHeight = 900;
